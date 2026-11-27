@@ -1,0 +1,9 @@
+# Personal progress stays on this computer.
+/progress.save
+/progress.save.tmp
+
+# Generated builds and diagnostic captures.
+/build/
+/build-*/
+/qa_*/
+/screenshots/
